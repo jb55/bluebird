@@ -1,0 +1,14 @@
+{
+  "name": "bluebird",
+  "repo": "jb55/bluebird",
+  "description": "promises",
+  "version": "0.0.1",
+  "keywords": ["bluebird", "promise"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "js/browser/bluebird.js",
+  "scripts": [
+    "js/browser/bluebird.js"
+  ]
+}
